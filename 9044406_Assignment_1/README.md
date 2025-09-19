@@ -19,7 +19,7 @@
 ## 📸 Screenshots  
 | Details View | Summary View | Alert Popup |
 |--------------|--------------|-------------|
-| ![Details](https://via.placeholder.com/200x400?text=Details+View) | ![Summary](https://via.placeholder.com/200x400?text=Summary+View) | ![Alert](https://via.placeholder.com/200x400?text=Alert) |
+| ![Details](images/details.png) | ![Summary](images/summary.png) | ![Alert](images/toast.png) |
 
 ---
 
