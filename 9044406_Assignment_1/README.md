@@ -35,7 +35,7 @@
 
 ```bash
 # Clone the repository  
-git clone <repository-url>  
+git clone https://github.com/dhruvjivani/SingleSwiftUIScreen
 
 # Open in Xcode  
 open TravelPlanner.xcodeproj  
