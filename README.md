@@ -19,7 +19,7 @@
 ## 📸 Screenshots  
 | Details View | Summary View | Alert Popup |
 |--------------|--------------|-------------|
-| ![Details](images/details.png) | ![Summary](images/summary.png) | ![Alert](images/toast.png) |
+| ![Details](9044406_Assignment_1/images/details.png) | ![Summary](9044406_Assignment_1/images/summary.png) | ![Alert](9044406_Assignment_1/images/toast.png) |
 
 ---
 
@@ -35,7 +35,7 @@
 
 ```bash
 # Clone the repository  
-git clone <repository-url>  
+git clone https://github.com/dhruvjivani/SingleSwiftUIScreen/ 
 
 # Open in Xcode  
 open TravelPlanner.xcodeproj  
